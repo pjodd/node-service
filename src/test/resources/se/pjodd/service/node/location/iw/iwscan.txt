@@ -1,0 +1,786 @@
+BSS 92:bd:27:06:ae:39(on client0)
+	TSF: 473190784 usec (0d, 00:07:53)
+	freq: 2412
+	beacon interval: 1000 TUs
+	capability: (0x0000)
+	signal: -63.00 dBm
+	last seen: 26020 ms ago
+	Information elements from Probe Response frame:
+	SSID:
+	HT capabilities:
+		Capabilities: 0x116e
+			HT20/HT40
+			SM Power Save disabled
+			RX HT20 SGI
+			RX HT40 SGI
+			RX STBC 1-stream
+			Max AMSDU length: 3839 bytes
+			DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: 8 usec (0x06)
+		HT TX/RX MCS rate indexes supported: 0-7
+	HT operation:
+		 * primary channel: 1
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+BSS 36:42:fe:09:98:10(on client0)
+	TSF: 1253344667719 usec (14d, 12:09:04)
+	freq: 2437
+	beacon interval: 100 TUs
+	capability: ESS (0x1511)
+	signal: 1.00 dBm
+	last seen: 100 ms ago
+	Information elements from Probe Response frame:
+	SSID: Klapa snel apa
+	RSN:	 * Version: 1
+		 * Group cipher: CCMP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: 1-PTKSA-RC 1-GTKSA-RC (0x0000)
+	HT capabilities:
+		Capabilities: 0x19ad
+			RX LDPC
+			HT20
+			SM Power Save disabled
+			RX HT20 SGI
+			TX STBC
+			RX STBC 1-stream
+			Max AMSDU length: 7935 bytes
+			DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: 4 usec (0x05)
+		HT RX MCS rate indexes supported: 0-23
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 6
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+BSS dc:53:7c:c7:8a:41(on client0)
+	TSF: 74137227049 usec (0d, 20:35:37)
+	freq: 2412
+	beacon interval: 100 TUs
+	capability: ESS (0x1411)
+	signal: -53.00 dBm
+	last seen: 750 ms ago
+	Information elements from Probe Response frame:
+	SSID: comhem_D2B4E2
+	RSN:	 * Version: 1
+		 * Group cipher: CCMP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: 16-PTKSA-RC 1-GTKSA-RC (0x000c)
+	HT capabilities:
+		Capabilities: 0x19ad
+			RX LDPC
+			HT20
+			SM Power Save disabled
+			RX HT20 SGI
+			TX STBC
+			RX STBC 1-stream
+			Max AMSDU length: 7935 bytes
+			DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: 4 usec (0x05)
+		HT RX MCS rate indexes supported: 0-23
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 1
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+BSS 80:ea:96:f0:e3:28(on client0)
+	TSF: 7315700630750 usec (84d, 16:08:20)
+	freq: 2412
+	beacon interval: 100 TUs
+	capability: ESS (0x1511)
+	signal: -73.00 dBm
+	last seen: 26000 ms ago
+	SSID: AndEl1
+	RSN:	 * Version: 1
+		 * Group cipher: CCMP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: 1-PTKSA-RC 1-GTKSA-RC (0x0000)
+	HT capabilities:
+		Capabilities: 0x19ad
+			RX LDPC
+			HT20
+			SM Power Save disabled
+			RX HT20 SGI
+			TX STBC
+			RX STBC 1-stream
+			Max AMSDU length: 7935 bytes
+			DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: 4 usec (0x05)
+		HT RX MCS rate indexes supported: 0-23
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 1
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+BSS 24:7f:20:0f:10:33(on client0)
+	TSF: 329154997028 usec (3d, 19:25:54)
+	freq: 2412
+	beacon interval: 100 TUs
+	capability: ESS (0x0411)
+	signal: -91.00 dBm
+	last seen: 730 ms ago
+	SSID: Majku ti
+	RSN:	 * Version: 1
+		 * Group cipher: CCMP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: 16-PTKSA-RC 1-GTKSA-RC (0x000c)
+	HT capabilities:
+		Capabilities: 0x9ad
+			RX LDPC
+			HT20
+			SM Power Save disabled
+			RX HT20 SGI
+			TX STBC
+			RX STBC 1-stream
+			Max AMSDU length: 7935 bytes
+			No DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: 4 usec (0x05)
+		HT RX MCS rate indexes supported: 0-23
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 1
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+BSS 6c:19:8f:f0:e8:16(on client0)
+	TSF: 18113715273896 usec (209d, 15:35:15)
+	freq: 2422
+	beacon interval: 100 TUs
+	capability: ESS (0x0411)
+	signal: -69.00 dBm
+	last seen: 590 ms ago
+	Information elements from Probe Response frame:
+	SSID: dlink-E816
+	HT capabilities:
+		Capabilities: 0x106e
+			HT20/HT40
+			SM Power Save disabled
+			RX HT20 SGI
+			RX HT40 SGI
+			No RX STBC
+			Max AMSDU length: 3839 bytes
+			DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: 2 usec (0x04)
+		HT RX MCS rate indexes supported: 0-15, 32
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 3
+		 * secondary channel offset: no secondary
+		 * STA channel width: any
+	RSN:	 * Version: 1
+		 * Group cipher: TKIP
+		 * Pairwise ciphers: TKIP CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: PreAuth 1-PTKSA-RC 1-GTKSA-RC (0x0001)
+BSS f8:e9:03:c3:e2:50(on client0)
+	TSF: 2302809661732 usec (26d, 15:40:09)
+	freq: 2422
+	beacon interval: 100 TUs
+	capability: ESS (0x0411)
+	signal: -65.00 dBm
+	last seen: 580 ms ago
+	Information elements from Probe Response frame:
+	SSID: dlink-E816-EXT
+	HT capabilities:
+		Capabilities: 0x1ec
+			HT20
+			SM Power Save disabled
+			RX HT20 SGI
+			RX HT40 SGI
+			TX STBC
+			RX STBC 1-stream
+			Max AMSDU length: 3839 bytes
+			No DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: 4 usec (0x05)
+		HT RX MCS rate indexes supported: 0-15
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 3
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+	RSN:	 * Version: 1
+		 * Group cipher: TKIP
+		 * Pairwise ciphers: CCMP TKIP
+		 * Authentication suites: PSK
+		 * Capabilities: 1-PTKSA-RC 1-GTKSA-RC (0x0000)
+BSS 4e:9e:ff:17:17:34(on client0)
+	TSF: 1430866414754 usec (16d, 13:27:46)
+	freq: 2427
+	beacon interval: 100 TUs
+	capability: ESS (0x0c11)
+	signal: -78.00 dBm
+	last seen: 540 ms ago
+	Information elements from Probe Response frame:
+	SSID: TN_private_3JXX3W
+	HT capabilities:
+		Capabilities: 0x11ee
+			HT20/HT40
+			SM Power Save disabled
+			RX HT20 SGI
+			RX HT40 SGI
+			TX STBC
+			RX STBC 1-stream
+			Max AMSDU length: 3839 bytes
+			DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: 4 usec (0x05)
+		HT RX MCS rate indexes supported: 0-15, 32
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 4
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+	Secondary Channel Offset: no secondary (0)
+	RSN:	 * Version: 1
+		 * Group cipher: TKIP
+		 * Pairwise ciphers: TKIP CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: 1-PTKSA-RC 1-GTKSA-RC (0x0000)
+BSS 58:98:35:a2:a6:ed(on client0)
+	TSF: 14569665083982 usec (168d, 15:07:45)
+	freq: 2437
+	beacon interval: 100 TUs
+	capability: ESS (0x0411)
+	signal: -77.00 dBm
+	last seen: 410 ms ago
+	Information elements from Probe Response frame:
+	SSID: TN_private_A2A6ED
+	RSN:	 * Version: 1
+		 * Group cipher: TKIP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: 16-PTKSA-RC 1-GTKSA-RC (0x000c)
+	HT capabilities:
+		Capabilities: 0x181c
+			HT20
+			SM Power Save disabled
+			RX Greenfield
+			No RX STBC
+			Max AMSDU length: 7935 bytes
+			DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: 8 usec (0x06)
+		HT RX MCS rate indexes supported: 0-15
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 6
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+BSS 34:12:98:09:fe:42(on client0)
+	TSF: 1253344565830 usec (14d, 12:09:04)
+	freq: 2437
+	beacon interval: 100 TUs
+	capability: ESS (0x1511)
+	signal: 0.00 dBm
+	last seen: 200 ms ago
+	Information elements from Probe Response frame:
+	SSID: Kodapan
+	RSN:	 * Version: 1
+		 * Group cipher: CCMP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: 1-PTKSA-RC 1-GTKSA-RC (0x0000)
+	HT capabilities:
+		Capabilities: 0x19ad
+			RX LDPC
+			HT20
+			SM Power Save disabled
+			RX HT20 SGI
+			TX STBC
+			RX STBC 1-stream
+			Max AMSDU length: 7935 bytes
+			DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: 4 usec (0x05)
+		HT RX MCS rate indexes supported: 0-23
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 6
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+BSS dc:53:7c:58:70:ec(on client0)
+	TSF: 26429645189 usec (0d, 07:20:29)
+	freq: 2437
+	beacon interval: 100 TUs
+	capability: ESS (0x1411)
+	signal: -82.00 dBm
+	last seen: 380 ms ago
+	Information elements from Probe Response frame:
+	SSID: comhem_55B8C4
+	RSN:	 * Version: 1
+		 * Group cipher: CCMP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: 16-PTKSA-RC 1-GTKSA-RC (0x000c)
+	HT capabilities:
+		Capabilities: 0x19ad
+			RX LDPC
+			HT20
+			SM Power Save disabled
+			RX HT20 SGI
+			TX STBC
+			RX STBC 1-stream
+			Max AMSDU length: 7935 bytes
+			DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: 4 usec (0x05)
+		HT RX MCS rate indexes supported: 0-23
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 6
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+BSS 10:bf:48:3d:d3:75(on client0)
+	TSF: 20790790179594 usec (240d, 15:13:10)
+	freq: 2447
+	beacon interval: 100 TUs
+	capability: ESS (0x0c11)
+	signal: -75.00 dBm
+	last seen: 320 ms ago
+	Information elements from Probe Response frame:
+	SSID: 24ShadesOfFika
+	HT capabilities:
+		Capabilities: 0x11ee
+			HT20/HT40
+			SM Power Save disabled
+			RX HT20 SGI
+			RX HT40 SGI
+			TX STBC
+			RX STBC 1-stream
+			Max AMSDU length: 3839 bytes
+			DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: 4 usec (0x05)
+		HT RX MCS rate indexes supported: 0-15, 32
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 8
+		 * secondary channel offset: above
+		 * STA channel width: any
+	RSN:	 * Version: 1
+		 * Group cipher: CCMP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: 1-PTKSA-RC 1-GTKSA-RC (0x0000)
+BSS 4e:9e:ff:17:47:8c(on client0)
+	TSF: 2666396501736 usec (30d, 20:39:56)
+	freq: 2452
+	beacon interval: 100 TUs
+	capability: ESS (0x0c11)
+	signal: -72.00 dBm
+	last seen: 270 ms ago
+	SSID: TN_private_X93H3Y
+	HT capabilities:
+		Capabilities: 0x11ee
+			HT20/HT40
+			SM Power Save disabled
+			RX HT20 SGI
+			RX HT40 SGI
+			TX STBC
+			RX STBC 1-stream
+			Max AMSDU length: 3839 bytes
+			DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: 4 usec (0x05)
+		HT RX MCS rate indexes supported: 0-15, 32
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 9
+		 * secondary channel offset: below
+		 * STA channel width: any
+	Secondary Channel Offset: no secondary (0)
+	RSN:	 * Version: 1
+		 * Group cipher: TKIP
+		 * Pairwise ciphers: TKIP CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: 1-PTKSA-RC 1-GTKSA-RC (0x0000)
+BSS fa:8f:ca:8c:e3:56(on client0)
+	TSF: 7301019136562 usec (84d, 12:03:39)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS (0x0421)
+	signal: -39.00 dBm
+	last seen: 80 ms ago
+	Information elements from Probe Response frame:
+	SSID:
+	HT capabilities:
+		Capabilities: 0x12c
+			HT20
+			SM Power Save disabled
+			RX HT20 SGI
+			RX STBC 1-stream
+			Max AMSDU length: 3839 bytes
+			No DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: No restriction (0x00)
+		HT RX MCS rate indexes supported: 0-7
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 11
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+BSS 90:94:e4:ca:27:d4(on client0)
+	TSF: 7301019032166 usec (84d, 12:03:39)
+	freq: 2462
+	beacon interval: 100 TUs
+	capability: ESS (0x0c11)
+	signal: -55.00 dBm
+	last seen: 70 ms ago
+	Information elements from Probe Response frame:
+	SSID:
+	HT capabilities:
+		Capabilities: 0x1ec
+			HT20
+			SM Power Save disabled
+			RX HT20 SGI
+			RX HT40 SGI
+			TX STBC
+			RX STBC 1-stream
+			Max AMSDU length: 3839 bytes
+			No DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: 4 usec (0x05)
+		HT RX MCS rate indexes supported: 0-15
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 11
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+	RSN:	 * Version: 1
+		 * Group cipher: TKIP
+		 * Pairwise ciphers: CCMP TKIP
+		 * Authentication suites: PSK
+		 * Capabilities: 1-PTKSA-RC 1-GTKSA-RC (0x0000)
+BSS 70:8b:cd:ea:02:80(on client0)
+	TSF: 8948151145980 usec (103d, 13:35:51)
+	freq: 2467
+	beacon interval: 100 TUs
+	capability: ESS (0x0c11)
+	signal: -73.00 dBm
+	last seen: 80 ms ago
+	Information elements from Probe Response frame:
+	SSID: ASUS
+	HT capabilities:
+		Capabilities: 0x11ee
+			HT20/HT40
+			SM Power Save disabled
+			RX HT20 SGI
+			RX HT40 SGI
+			TX STBC
+			RX STBC 1-stream
+			Max AMSDU length: 3839 bytes
+			DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: 4 usec (0x05)
+		HT RX MCS rate indexes supported: 0-15, 32
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 12
+		 * secondary channel offset: below
+		 * STA channel width: any
+	RSN:	 * Version: 1
+		 * Group cipher: CCMP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: 1-PTKSA-RC 1-GTKSA-RC (0x0000)
+BSS 80:37:73:bd:b1:fe(on client0)
+	TSF: 28161028636996 usec (325d, 22:30:28)
+	freq: 2472
+	beacon interval: 100 TUs
+	capability: ESS (0x0431)
+	signal: -69.00 dBm
+	last seen: 20 ms ago
+	Information elements from Probe Response frame:
+	SSID: Iskallhand
+	HT capabilities:
+		Capabilities: 0x11ee
+			HT20/HT40
+			SM Power Save disabled
+			RX HT20 SGI
+			RX HT40 SGI
+			TX STBC
+			RX STBC 1-stream
+			Max AMSDU length: 3839 bytes
+			DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: 4 usec (0x05)
+		HT RX MCS rate indexes supported: 0-15, 32
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 13
+		 * secondary channel offset: below
+		 * STA channel width: any
+	RSN:	 * Version: 1
+		 * Group cipher: CCMP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: 1-PTKSA-RC 1-GTKSA-RC (0x0000)
+BSS 04:a1:51:e3:fa:bf(on client0)
+	TSF: 1116687155594 usec (12d, 22:11:27)
+	freq: 2472
+	beacon interval: 100 TUs
+	capability: ESS (0x1411)
+	signal: -86.00 dBm
+	last seen: 25260 ms ago
+	Information elements from Probe Response frame:
+	SSID: ComHemE3FABB
+	RSN:	 * Version: 1
+		 * Group cipher: CCMP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: 16-PTKSA-RC 1-GTKSA-RC (0x000c)
+	HT capabilities:
+		Capabilities: 0x19bc
+			HT20
+			SM Power Save disabled
+			RX Greenfield
+			RX HT20 SGI
+			TX STBC
+			RX STBC 1-stream
+			Max AMSDU length: 7935 bytes
+			DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: 8 usec (0x06)
+		HT RX MCS rate indexes supported: 0-15
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 13
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+BSS c2:85:26:80:56:38(on client0)
+	TSF: 480768384 usec (0d, 00:08:00)
+	freq: 2412
+	beacon interval: 100 TUs
+	capability: ESS (0x0421)
+	signal: -69.00 dBm
+	last seen: 760 ms ago
+	Information elements from Probe Response frame:
+	SSID: pjodd.se
+	HT capabilities:
+		Capabilities: 0x116c
+			HT20
+			SM Power Save disabled
+			RX HT20 SGI
+			RX HT40 SGI
+			RX STBC 1-stream
+			Max AMSDU length: 3839 bytes
+			DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: 8 usec (0x06)
+		HT TX/RX MCS rate indexes supported: 0-7
+	HT operation:
+		 * primary channel: 1
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+BSS 92:bd:27:06:ae:38(on client0)
+	TSF: 498483725 usec (0d, 00:08:18)
+	freq: 2412
+	beacon interval: 100 TUs
+	capability: ESS (0x0421)
+	signal: -65.00 dBm
+	last seen: 740 ms ago
+	Information elements from Probe Response frame:
+	SSID: pjodd.se
+	HT capabilities:
+		Capabilities: 0x116c
+			HT20
+			SM Power Save disabled
+			RX HT20 SGI
+			RX HT40 SGI
+			RX STBC 1-stream
+			Max AMSDU length: 3839 bytes
+			DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: 8 usec (0x06)
+		HT TX/RX MCS rate indexes supported: 0-7
+	HT operation:
+		 * primary channel: 1
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+BSS 92:bd:27:06:ae:39(on client0)
+	TSF: 498483584 usec (0d, 00:08:18)
+	freq: 2412
+	beacon interval: 1000 TUs
+	capability: (0x0000)
+	signal: -64.00 dBm
+	last seen: 730 ms ago
+	Information elements from Probe Response frame:
+	SSID:
+	HT capabilities:
+		Capabilities: 0x116e
+			HT20/HT40
+			SM Power Save disabled
+			RX HT20 SGI
+			RX HT40 SGI
+			RX STBC 1-stream
+			Max AMSDU length: 3839 bytes
+			DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: 8 usec (0x06)
+		HT TX/RX MCS rate indexes supported: 0-7
+	HT operation:
+		 * primary channel: 1
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+BSS 6a:14:01:58:de:fc(on client0)
+	TSF: 48142256415 usec (0d, 13:22:22)
+	freq: 2422
+	beacon interval: 100 TUs
+	capability: ESS (0x0511)
+	signal: -77.00 dBm
+	last seen: 630 ms ago
+	Information elements from Probe Response frame:
+	SSID: DIRECT-fc-HP M252 LaserJet
+	RSN:	 * Version: 1
+		 * Group cipher: CCMP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: 16-PTKSA-RC 1-GTKSA-RC (0x000c)
+	HT capabilities:
+		Capabilities: 0x20
+			HT20
+			Static SM Power Save
+			RX HT20 SGI
+			No RX STBC
+			Max AMSDU length: 3839 bytes
+			No DSSS/CCK HT40
+		Maximum RX AMPDU length 32767 bytes (exponent: 0x002)
+		Minimum RX AMPDU time spacing: 8 usec (0x06)
+		HT RX MCS rate indexes supported: 0-7
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 3
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+BSS 58:98:35:7f:e3:a7(on client0)
+	TSF: 301308018164 usec (3d, 11:41:48)
+	freq: 2437
+	beacon interval: 100 TUs
+	capability: ESS (0x0411)
+	signal: -85.00 dBm
+	last seen: 450 ms ago
+	Information elements from Probe Response frame:
+	SSID: TeliaGateway58-98-35-7F-E3-A7
+	RSN:	 * Version: 1
+		 * Group cipher: TKIP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: 16-PTKSA-RC 1-GTKSA-RC (0x000c)
+	HT capabilities:
+		Capabilities: 0x181c
+			HT20
+			SM Power Save disabled
+			RX Greenfield
+			No RX STBC
+			Max AMSDU length: 7935 bytes
+			DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: 8 usec (0x06)
+		HT RX MCS rate indexes supported: 0-15
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 6
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+BSS a4:2b:b0:dc:ec:30(on client0)
+	TSF: 283843336 usec (0d, 00:04:43)
+	freq: 2447
+	beacon interval: 100 TUs
+	capability: ESS (0x0431)
+	signal: -89.00 dBm
+	last seen: 320 ms ago
+	Information elements from Probe Response frame:
+	SSID: Denar 2.4GHz
+	RSN:	 * Version: 1
+		 * Group cipher: CCMP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: 1-PTKSA-RC 1-GTKSA-RC (0x0000)
+	HT capabilities:
+		Capabilities: 0x11ef
+			RX LDPC
+			HT20/HT40
+			SM Power Save disabled
+			RX HT20 SGI
+			RX HT40 SGI
+			TX STBC
+			RX STBC 1-stream
+			Max AMSDU length: 3839 bytes
+			DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: 8 usec (0x06)
+		HT TX/RX MCS rate indexes supported: 0-23
+	HT operation:
+		 * primary channel: 8
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+BSS 10:da:43:df:8a:ae(on client0)
+	TSF: 4547880768976 usec (52d, 15:18:00)
+	freq: 2467
+	beacon interval: 100 TUs
+	capability: ESS (0x0431)
+	signal: -86.00 dBm
+	last seen: 80 ms ago
+	SSID: NETGEAR58
+	HT capabilities:
+		Capabilities: 0x11ee
+			HT20/HT40
+			SM Power Save disabled
+			RX HT20 SGI
+			RX HT40 SGI
+			TX STBC
+			RX STBC 1-stream
+			Max AMSDU length: 3839 bytes
+			DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: 4 usec (0x05)
+		HT RX MCS rate indexes supported: 0-15, 32
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 12
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
+	RSN:	 * Version: 1
+		 * Group cipher: CCMP
+		 * Pairwise ciphers: CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: 1-PTKSA-RC 1-GTKSA-RC (0x0000)
+BSS 14:d6:4d:2e:db:ca(on client0)
+	TSF: 577815347584 usec (6d, 16:30:15)
+	freq: 2472
+	beacon interval: 100 TUs
+	capability: ESS (0x0431)
+	signal: -77.00 dBm
+	last seen: 40 ms ago
+	Information elements from Probe Response frame:
+	SSID: johanna
+	RSN:	 * Version: 1
+		 * Group cipher: TKIP
+		 * Pairwise ciphers: TKIP CCMP
+		 * Authentication suites: PSK
+		 * Capabilities: 1-PTKSA-RC 1-GTKSA-RC (0x0000)
+	HT capabilities:
+		Capabilities: 0x104c
+			HT20
+			SM Power Save disabled
+			RX HT40 SGI
+			No RX STBC
+			Max AMSDU length: 3839 bytes
+			DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)
+		Minimum RX AMPDU time spacing: 8 usec (0x06)
+		HT RX MCS rate indexes supported: 0-15
+		HT TX MCS rate indexes are undefined
+	HT operation:
+		 * primary channel: 13
+		 * secondary channel offset: no secondary
+		 * STA channel width: 20 MHz
